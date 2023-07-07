@@ -1,0 +1,110 @@
+header {
+ border-left:100%;
+ height: 250px;
+ width: 1830px;
+}
+
+maks {
+ float: left;
+ width: 300px;
+ height: 250px;
+}
+main {
+ height: 1260px;
+ width: 1830px;
+ 
+}
+sanya {
+	position:absolute;
+	left:450px;
+}
+body{
+	height: 1260px;
+	background-image: url("aaa.gif");
+}
+vid1{
+	height: 300px;
+	width: 300px;
+}
+div.maindiv{
+	margin-left: 366px;
+	height: 1260px;
+	width: 1098px;
+	background-image: url("12.png");
+  	background-position: center center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+}
+div.main{
+	border: 5px solid black;
+	height: 50px;
+}
+div.music2{
+	border: 5px solid black;
+	height: 210px;
+}
+td.start{
+	position: absolute;
+}
+td.right1{
+	position: absolute;
+}
+h1{
+	font-size: 30px;
+	color: rgb(128, 151, 27);
+	text-align: center;
+}
+div.music3{
+	border: 5px solid black;
+	height: 210px;
+}
+h2{
+	font-size: 30px;
+	color: rgb(128, 151, 27);
+}
+div.music4{
+	border: 5px solid black;
+	height: 210px;
+}
+h3{
+	font-size: 30px;
+	color: rgb(128, 151, 27);
+}
+div.music5{
+	border: 5px solid black;
+	height: 210px;
+}
+h4{
+	font-size: 30px;
+	color: rgb(128, 151, 27);
+}
+div.music6{
+	border: 5px solid black;
+	height: 210px;
+}
+td.center{
+	position: absolute;
+
+}
+h5{
+	font-size: 30px;
+	color: rgb(128, 151, 27);
+	text-align: center;
+}
+footer {
+	height: 100px;
+	width: 100%;
+	background-color: rgb(56, 56, 56);
+}
+h6{
+	font-size: 50px;
+	color: rgb(128, 151, 27);
+	text-align: center;
+}
+td.end{
+	position: absolute;
+}
+h7{
+	font-size: 20px;
+	color: rgb(255, 255, 255);
+}
